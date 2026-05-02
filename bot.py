@@ -37,7 +37,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ================= CONFIG =================
-BOT_TOKEN = "8584147121:AAGSHzqJe83VKL6hNpKcu2WIVhfWiZMqrug"
+BOT_TOKEN = "8400631140:AAGD1nuwyEhEuhnDO9V_FvvGTki3XjlRYWk"
 ADMIN_ID = 6068463116
 BOT_USERNAME = "SynaxInfoBot"  # Replace with your bot username
 
